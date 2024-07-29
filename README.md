@@ -1,1 +1,1 @@
-# Customer-Lifetime-Value-Prediction-CodeClause-Internship-Project-
+# Customer Lifetime Value Prediction (CodeClause Internship Project)
