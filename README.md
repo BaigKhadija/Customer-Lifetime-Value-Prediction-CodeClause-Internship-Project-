@@ -1,10 +1,5 @@
 # Customer Lifetime Value Prediction (CodeClause Internship Project)
 
-Predict the lifetime value of customers for a business based on their historical interactions.
-
-### Description-
-Apply regression techniques to estimate the future value that a customer will bring to the business.
-
 ## Project Overview
 The aim is to accurately predict CLV for customers of the auto insurance company. The project includes:
 
