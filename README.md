@@ -16,9 +16,9 @@ The dataset includes 24 features and 9134 records, representing the CLV of custo
 
 #### Univariate Analysis
 ![CLV](/CLV.png "Customer Lifetime Value")
-- **CLV**: Displays a strong right skew.
+- CLV: Displays a strong right skew.
 - ![location](/location.png "Location")
-- **Location**: Most customers are located in suburban areas.
+- Location: Most customers are located in suburban areas.
 
 #### Bivariate Analysis
 
