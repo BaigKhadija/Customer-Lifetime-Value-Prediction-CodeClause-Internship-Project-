@@ -16,17 +16,11 @@ The dataset includes 24 features and 9134 records, representing the CLV of custo
 
 #### Univariate Analysis
 
-- CLV: Displays a strong right skew.
 ![CLV](/CLV.png "Customer Lifetime Value")
-
-- Location: Most customers are located in suburban areas.
-![location](/location.png "Location")
-
-![CLV](/CLV.png "Customer Lifetime Value")
-- CLV is heavily right skewed in the data
+- CLV displays a strong right skew
 
 ![location](/location.png "Location")
-- Most of the customers are from the suburban region
+- Most of the customers are located in suburban region
 #### Bivariate Analysis
 ![Bivariate Analysis](/bi.png "Bivariate Analysis of CLV and Monthly Premium")
 - **CLV vs. Monthly Premium Auto**: Positive correlation and linear relationship.
