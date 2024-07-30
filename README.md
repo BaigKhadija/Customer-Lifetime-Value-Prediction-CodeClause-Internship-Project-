@@ -1,10 +1,6 @@
 # Customer Lifetime Value Prediction (CodeClause Internship Project)
-### Business Problem
 
-An Auto Insurance company in the USA is struggling with customer retention and is looking to offer promotional incentives to its loyal customers. To address this, they are focusing on Customer Lifetime Value (CLV), which measures the total worth of a customer to the company over time. Given the competitive nature of the insurance market, where factors beyond premium rates influence customer decisions, leveraging CLV can enhance customer acquisition and retention, prevent churn, optimize marketing budgets, and provide detailed performance metrics for advertising.
-
-### Project Overview
-
+## Project Overview
 The aim is to accurately predict CLV for customers of the auto insurance company. The project includes:
 
 - **Exploratory Data Analysis (EDA)**: To examine how CLV relates to other features.
@@ -12,17 +8,18 @@ The aim is to accurately predict CLV for customers of the auto insurance company
 - **Supervised Regression Models**: Implementing models like Linear Regression, Ridge Regression, Lasso Regression, Decision Tree Regression, Random Forest Regression, and AdaBoost Regression.
 - **Model Tuning**: GridSearchCV was employed with Random Forest Regression to achieve the best performance metrics.
 
-### Dataset Description
+## Dataset Description
 
 The dataset includes 24 features and 9134 records, representing the CLV of customers from an auto insurance company in the United States.
 
 ### Exploratory Data Analysis
 
 #### Univariate Analysis
-
-- **CLV**: Displays a strong right skew.
-- **Location**: Most customers are located in suburban areas.
 ![CLV](/CLV.png "Customer Lifetime Value")
+- **CLV**: Displays a strong right skew.
+- ![location](/location.png "Location")
+- **Location**: Most customers are located in suburban areas.
+
 #### Bivariate Analysis
 
 - **CLV vs. Monthly Premium Auto**: Positive correlation and linear relationship.
