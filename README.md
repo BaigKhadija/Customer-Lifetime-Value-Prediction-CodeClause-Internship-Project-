@@ -22,7 +22,7 @@ The dataset includes 24 features and 9134 records, representing the CLV of custo
 
 - **CLV**: Displays a strong right skew.
 - **Location**: Most customers are located in suburban areas.
-
+![CLV](/CLV.png "Customer Lifetime Value")
 #### Bivariate Analysis
 
 - **CLV vs. Monthly Premium Auto**: Positive correlation and linear relationship.
